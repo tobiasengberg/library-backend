@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace library_api.Controllers;
+namespace library_api.Models;
 
 public class LibraryDb : DbContext
 {
